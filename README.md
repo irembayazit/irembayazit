@@ -24,8 +24,4 @@
 > [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
 
 
-
-
-
-
 [![GitLab issues closed](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://www.linkedin.com/in/irembayazit/)
