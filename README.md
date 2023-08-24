@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone 👋🏻 I'm Irem 💫
+
+#### A Skilled Full Stack Developer 🚀 from Turkey. Always working on some project or learning something new!
+Stacks I have worked with : NodeJs, .NET, MongoDB, React Native...
 
 ### Quick Facts
 
