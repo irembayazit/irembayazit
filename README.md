@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![LinkedIn Badge](https://www.linkedin.com/in/irembayazit/)](link) 
+
 <!--
 **irembayazit/irembayazit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
