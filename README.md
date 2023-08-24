@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkeIdn]([https://badgen.net/badge/icon/twitter?icon=twitter&label](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png))]([https://twitter.com](https://www.linkedin.com/in/irembayazit/))
+[![LinkeIdn]([https://badgen.net/badge/icon/twitter?icon=twitter&label](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png))]((https://www.linkedin.com/in/irembayazit/))
 
 
 <!--
