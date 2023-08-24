@@ -6,6 +6,13 @@
 - 🌱 I’m currently learning .Net
 - 📫 How to reach me: bayzt.irem@gmail.com
 
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 🛠️ Languages and Tools
 
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
