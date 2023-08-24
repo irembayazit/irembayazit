@@ -1,5 +1,7 @@
 ### Hi everyone 👋🏻 I'm Irem 💫
 
+[![GitLab issues closed](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://www.linkedin.com/in/irembayazit/)
+
 #### A Skilled Full Stack Developer 🚀 from Turkey. Always working on some project or learning something new!
 Stacks I have worked with : NodeJs, .NET, MongoDB, React Native...
 
@@ -25,6 +27,3 @@ Stacks I have worked with : NodeJs, .NET, MongoDB, React Native...
 > [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
 > [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 > [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
-
-
-[![GitLab issues closed](https://badgen.net/badge/icon/linkedin?icon=linkedin&label)](https://www.linkedin.com/in/irembayazit/)
