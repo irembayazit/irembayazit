@@ -26,6 +26,5 @@
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 
 
-[![LinkeIdn]([https://badgen.net/badge/icon/twitter?icon=twitter&label](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png))]((https://www.linkedin.com/in/irembayazit/))
 
 
